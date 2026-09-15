@@ -54,7 +54,9 @@ These are reasonable actions the findings could support; they have not been impl
 
 ## Dashboard preview
 
-See `screenshots/README.md` for instructions on adding dashboard screenshots to this repository.
+![Workforce demographics](screenshots/workforce-demographics.png)
+![Absenteeism by role](screenshots/absenteeism-by-role.png)
+![Absence hours distribution](screenshots/absence-hours-distribution.png)
 
 ## Dashboard structure
 
@@ -97,4 +99,3 @@ An HR operations manager or people-analytics lead could use this dashboard to de
 - **Underlying data model not accessible** — DAX measures and table relationships behind the visuals cannot be reviewed from the public viewer link.
 - **No time period specified.** The dashboard's absenteeism figures are not tied to a stated reporting period in the material reviewed.
 - **Page count not fully confirmed.** Three pages have been reviewed directly; the report may contain additional pages not yet documented here.
-- **No screenshots included yet** (see `screenshots/README.md`).
